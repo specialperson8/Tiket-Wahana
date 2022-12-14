@@ -17,7 +17,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/tiket_wahana/';
+$config['base_url'] = 'https://specialperson8.github.io/Tiket-Wahana/';
 
 /*
 |--------------------------------------------------------------------------
